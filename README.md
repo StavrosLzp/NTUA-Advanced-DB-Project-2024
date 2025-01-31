@@ -17,6 +17,6 @@ The Code was developed and tested on Amazon's SageMaker AI Notebooks using S3 bu
 
 The assignement Presentation can be seen here: [project_eng_2024.pdf](project_eng_2024.pdf)
 
-The final report can be seen here:[Report.pdf](<URL of the report>)
+The final report can be seen here: [Report.pdf](Report.pdf)
 
 For more details and code examples, please refer to the Jupyter Notebook: [advanced_db_project_2024.ipynb](advanced_db_project_2024.ipynb)
